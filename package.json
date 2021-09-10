@@ -1,0 +1,23 @@
+{
+  "name": "flasksimple",
+  "version": "1.0.0",
+  "description": "A firebase application to containerize a python app and render it to the web using cloud run and firebase hosting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dennis7456/flasksimple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dennis7456/flasksimple/issues"
+  },
+  "homepage": "https://github.com/Dennis7456/flasksimple#readme",
+  "devDependencies": {
+    "firebase-tools": "^9.18.0"
+  }
+}
